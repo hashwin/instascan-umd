@@ -1686,9 +1686,9 @@ inquirer@^6.0.0:
     strip-ansi "^4.0.0"
     through "^2.3.6"
 
-instascan@1.0.0:
+instascan@hashwin/instascan#d231742:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/instascan/-/instascan-1.0.0.tgz#de5949f73f698f8dff68df0a7bcf6942a799ee44"
+  resolved "https://codeload.github.com/hashwin/instascan/tar.gz/d231742773ec9b50796eb6aed79555788f179995"
   dependencies:
     babel-polyfill "^6.9.1"
     fsm-as-promised "^0.13.0"
